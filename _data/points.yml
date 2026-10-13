@@ -1,0 +1,260 @@
+- name: "Fish & Drink"
+  tipo: "Rosticceria di pesce"
+  fa: "fa-fish"
+  addr: "Via G. Lodi, 148"
+  orari: "Lun-Mar Chiuso / Mer-Sab 11-14, 18-23 / Dom 11-14"
+  lat: 44.7244578
+  lng: 11.1464966
+  color: "#e85d04"
+
+- name: "Valle Torretta"
+  tipo: "Agriturismo"
+  fa: "fa-tree"
+  addr: "Via Scagliarossa, 1174"
+  orari: "Su prenotazione"
+  lat: 44.7327386
+  lng: 11.1780203
+  color: "#2d6a4f"
+
+- name: "Bottega Aleotti"
+  tipo: "Ristorante"
+  fa: "fa-utensils"
+  addr: "Via G. Paltrinieri, 62"
+  orari: "Lun Chiuso / Mar-Sab 12-14, 20-22 / Dom 12-14"
+  lat: 44.7236257
+  lng: 11.1463045
+  color: "#e85d04"
+
+- name: "Pizzeria La Lanterna"
+  tipo: "Pizzeria"
+  fa: "fa-pizza-slice"
+  addr: "Via di Mezzo Ponente, 15"
+  orari: "Lun-Sab 12-14, 18:30-00 / Dom 18:30-00"
+  lat: 44.72344
+  lng: 11.144717
+  color: "#e85d04"
+
+- name: "Gelateria K2"
+  tipo: "Gelateria"
+  fa: "fa-ice-cream"
+  addr: "Viale G. Amendola, 330"
+  orari: "Lun Chiuso / Mar-Dom 10-21:30"
+  lat: 44.7199245
+  lng: 11.1472547
+  color: "#e85d04"
+
+- name: "Rosticceria Fantasy"
+  tipo: "Rosticceria"
+  fa: "fa-utensils"
+  addr: "Viale G. Amendola, 330/B"
+  orari: "Lun Chiuso / Mar-Sab 7-19:30 / Dom 7-13"
+  lat: 44.7197532
+  lng: 11.1474977
+  color: "#e85d04"
+
+- name: "Loco Cafe - La Baracchina"
+  tipo: "Bar"
+  fa: "fa-mug-hot"
+  addr: "Viale della Pace, 381"
+  orari: "Lun-Gio 6-22:30 / Ven 6-23:30 / Sab-Dom 7-22:30"
+  lat: 44.7203674
+  lng: 11.151432
+  color: "#1d6fa4"
+
+- name: "Bar Bona Le"
+  tipo: "Bar"
+  fa: "fa-mug-hot"
+  addr: "Via Antonio Vivaldi, 176/5"
+  orari: "Lun-Gio Dom 5-01 / Ven-Sab 5-01:30"
+  lat: 44.7186557
+  lng: 11.1468945
+  color: "#1d6fa4"
+
+- name: "C'e Pizza per Te"
+  tipo: "Pizzeria"
+  fa: "fa-pizza-slice"
+  addr: "Via di Mezzo Ponente, 197"
+  orari: "Tutti i giorni 18-22:30"
+  lat: 44.724237
+  lng: 11.1425748
+  color: "#e85d04"
+
+- name: "La Drogheria"
+  tipo: "Bar / Ristorazione"
+  fa: "fa-mug-hot"
+  addr: "Via C. B. Conte di Cavour, 36"
+  orari: "Lun Chiuso / Mar-Sab 7-13, 16:30-20 / Dom 7-13"
+  lat: 44.7229214
+  lng: 11.147668
+  color: "#1d6fa4"
+
+- name: "Dolciromy"
+  tipo: "Forno / Pasticceria"
+  fa: "fa-bread-slice"
+  addr: "Via Giacomo Matteotti, 66"
+  orari: "Lun-Sab 6:30-12:45, 16-19 / Dom Chiuso"
+  lat: 44.7222351
+  lng: 11.14861
+  color: "#c77dff"
+
+- name: "Bar Aloa"
+  tipo: "Bar"
+  fa: "fa-mug-hot"
+  addr: "Piazzale Porta Bologna, 21"
+  orari: "Lun-Mer 6-00 / Gio 6-15 / Ven-Sab 6-02 / Dom 7-00"
+  lat: 44.722082
+  lng: 11.1496577
+  color: "#1d6fa4"
+
+- name: "Taverna del Cuore"
+  tipo: "Ristorante"
+  fa: "fa-utensils"
+  addr: "Via Solferino, 53"
+  orari: "Lun Chiuso / Mar-Sab 12:30-15:30, 20-23 / Dom 12:30-15"
+  lat: 44.7240692
+  lng: 11.1475896
+  color: "#e85d04"
+
+- name: "Forno La Madia"
+  tipo: "Forno"
+  fa: "fa-bread-slice"
+  addr: "Via Sant'Agata, 84"
+  orari: "Lun-Sab 5-14 / Dom Chiuso"
+  lat: 44.7163418
+  lng: 11.1458073
+  color: "#c77dff"
+
+- name: "American Bar Malpighi"
+  tipo: "Bar"
+  fa: "fa-mug-hot"
+  addr: "Via Giacomo Matteotti, 321"
+  orari: "Lun-Ven 6:30-21 / Sab 7-22:30 / Dom 8-13"
+  lat: 44.7231169
+  lng: 11.1456923
+  color: "#1d6fa4"
+
+- name: "Club A Tavola"
+  tipo: "Ristorazione"
+  fa: "fa-utensils"
+  addr: "Via Forcole, 1610"
+  orari: "Lun Mer-Ven 20-22:30 / Mar Chiuso / Sab-Dom 12:30-14:30, 20-22:30"
+  lat: 44.7126087
+  lng: 11.1341406
+  color: "#e85d04"
+
+- name: "Osteria Razmataz"
+  tipo: "Ristorazione"
+  fa: "fa-utensils"
+  addr: "Via Ludovico Mattioli, 9"
+  orari: "Temporaneamente chiuso"
+  lat: 44.7217525
+  lng: 11.1478585
+  color: "#e85d04"
+
+- name: "IAT - Pro Loco Crevalcore"
+  tipo: "IAT Diffuso"
+  fa: "fa-circle-info"
+  addr: "Viale Amendola, 330"
+  orari: ""
+  lat: 44.7198
+  lng: 11.1488
+  color: "#2c5f2e"
+
+- name: "IAT - Motoclub Crevalcore"
+  tipo: "IAT Diffuso"
+  fa: "fa-circle-info"
+  addr: "Via del Bottazzo, 229 - Bolognina"
+  orari: "Gio 21-00"
+  lat: 44.7649836
+  lng: 11.144607
+  color: "#2c5f2e"
+
+- name: "IAT - Ass. Carabinieri in Congedo"
+  tipo: "IAT Diffuso"
+  fa: "fa-circle-info"
+  addr: "Viale della Pace - stazione ferroviaria"
+  orari: ""
+  lat: 44.7203
+  lng: 11.1512
+  color: "#2c5f2e"
+
+- name: "Chiesa di S. Silvestro"
+  tipo: "Punto storico"
+  fa: "fa-cross"
+  addr: "Via C. B. Conte di Cavour, 71"
+  orari: ""
+  lat: 44.7229409
+  lng: 11.1472855
+  color: "#8B4513"
+
+- name: "Palazzo Comunale"
+  tipo: "Punto storico"
+  fa: "fa-archway"
+  addr: "Crevalcore"
+  orari: ""
+  lat: 44.7226165
+  lng: 11.1470592
+  color: "#8B4513"
+
+- name: "Chiesa di S. Croce"
+  tipo: "Punto storico"
+  fa: "fa-cross"
+  addr: "Via Roma, 87"
+  orari: ""
+  lat: 44.7218269
+  lng: 11.146644
+  color: "#8B4513"
+
+- name: "Teatro Comunale"
+  tipo: "Punto storico"
+  fa: "fa-masks-theater"
+  addr: "Via Giacomo Matteotti, 110"
+  orari: ""
+  lat: 44.7224104
+  lng: 11.1480248
+  color: "#8B4513"
+
+- name: "Porta Bologna"
+  tipo: "Punto storico"
+  fa: "fa-archway"
+  addr: "Via Giacomo Matteotti, 24"
+  orari: ""
+  lat: 44.721942
+  lng: 11.1492089
+  color: "#8B4513"
+
+- name: "Porta Modena"
+  tipo: "Punto storico"
+  fa: "fa-archway"
+  addr: "Piazzale di Porta Modena"
+  orari: ""
+  lat: 44.7233586
+  lng: 11.1453107
+  color: "#8B4513"
+
+- name: "B&B Chalet Laghetti Martina"
+  tipo: "B&B"
+  fa: "fa-bed"
+  addr: "Via Biancaneve, 308/1"
+  orari: "Lun-Dom 7:00-19:00"
+  lat: 44.7364501
+  lng: 11.1247062
+  color: "#e91e8c"
+
+- name: "I Pioppi Cipressini"
+  tipo: "B&B"
+  fa: "fa-bed"
+  addr: "Via degli Orsi, 692/B"
+  orari: "Lun-Ven 13:30-20:00 / Sab-Dom 9:00-20:00"
+  lat: 44.7212755
+  lng: 11.1818164
+  color: "#e91e8c"
+
+- name: "Crevainbici"
+  tipo: "Ciclofficina"
+  fa: "fa-bicycle"
+  addr: "Via Giuseppe Garibaldi, 47"
+  orari: "Lun-Sab 8:30-12:30, 15:00-19:00 / Dom Chiuso"
+  lat: 44.7232181
+  lng: 11.1471087
+  color: "#0077b6"
