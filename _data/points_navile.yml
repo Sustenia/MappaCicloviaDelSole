@@ -1,3 +1,93 @@
+# COME AGGIUNGERE UN NUOVO PUNTO
+#
+# Copia il modello in fondo a queste istruzioni.
+# Togli il primo # da ogni riga del modello e compila i campi.
+# Mantieni i due spazi prima dei campi successivi a name.
+# Usa spazi, non tabulazioni.
+# Lascia testi e colori tra virgolette e le coordinate senza virgolette.
+#
+# CAMPI
+#
+# name: nome del locale, del servizio o del luogo.
+# tipo: tipologia mostrata nel popup. Puoi usare le opzioni qui sotto
+#       oppure una descrizione combinata, come "Ristorante / B&B".
+# fa: nome dell'icona, scelto dalle opzioni qui sotto.
+# addr: indirizzo completo, preferibilmente con comune o frazione.
+# orari: giorni e orari di apertura. Se non disponibili, scrivi "".
+# lat: latitudine, con il punto come separatore decimale.
+# lng: longitudine, con il punto come separatore decimale.
+# color: colore del simbolo sulla mappa, tra virgolette.
+#
+# TIPOLOGIE, ICONE E COLORI
+#
+# Ristorante / Ristorazione / Gastronomia / Rosticceria
+#   fa: "fa-utensils"
+#   color: "#e85d04"
+#
+# Pizzeria
+#   fa: "fa-pizza-slice"
+#   color: "#e85d04"
+#
+# Rosticceria di pesce
+#   fa: "fa-fish"
+#   color: "#e85d04"
+#
+# Gelateria
+#   fa: "fa-ice-cream"
+#   color: "#e85d04"
+#
+# Bar / Caffe / Bar / Ristorazione / Bar / Ristorante / Enoteca
+#   fa: "fa-mug-hot"
+#   color: "#1d6fa4"
+#
+# Forno / Pasticceria
+#   fa: "fa-bread-slice"
+#   color: "#c77dff"
+#
+# Agriturismo
+#   fa: "fa-tree"
+#   color: "#2d6a4f"
+#
+# IAT Diffuso / IAT Diffuso / Infopoint
+#   fa: "fa-circle-info"
+#   color: "#2c5f2e"
+#
+# B&B / Ostello
+#   fa: "fa-bed"
+#   color: "#e91e8c"
+#
+# Ciclofficina
+#   fa: "fa-bicycle"
+#   color: "#0077b6"
+#
+# Punto storico
+#   fa: "fa-cross"         per una chiesa
+#   fa: "fa-archway"       per una porta o un palazzo
+#   fa: "fa-masks-theater" per un teatro
+#   color: "#8B4513"
+#   Scegli una sola riga fa.
+#   Scrivi tipo esattamente "Punto storico": il codice mostra
+#   il nome sotto il simbolo e non apre il popup.
+#
+# Le icone elencate sono quelle già usate nelle mappe.
+# Cambiare tipo, fa o color non aggiorna la legenda nell'HTML.
+#
+# MODELLO DA COPIARE E COMPILARE
+#
+#- name: "Nome del locale"
+#  tipo: "Ristorante"
+#  fa: "fa-utensils"
+#  addr: "Via e numero civico, comune"
+#  orari: ""
+#  lat: 44.7244578
+#  lng: 11.1464966
+#  color: "#e85d04"
+#
+# Sostituisci le coordinate di esempio con quelle del nuovo punto.
+
+
+
+
 - name: "Villa San Donino"
   tipo: "Ristorante"
   fa: "fa-utensils"
