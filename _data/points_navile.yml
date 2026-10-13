@@ -1,0 +1,107 @@
+- name: "Villa San Donino"
+  tipo: "Ristorante"
+  fa: "fa-utensils"
+  addr: "Via Centese, 278, Volta Reno (Argelato)"
+  orari: "Mer-Ven 19:30-00 / Sab 12-14:30, 19:30-00 / Dom 12-15:30, 19:30-00"
+  lat: 44.6657449
+  lng: 11.307452
+  color: "#e85d04"
+
+- name: "La Grigliata"
+  tipo: "Ristorante / B&B"
+  fa: "fa-utensils"
+  addr: "Via Casadio, 31, Casadio (Argelato)"
+  orari: "Lun Chiuso / Mar-Dom 12-14:30, 19-22:30"
+  lat: 44.6173458
+  lng: 11.3302718
+  color: "#e85d04"
+
+- name: "La Locanda Smeraldi"
+  tipo: "Ristorante / Bike"
+  fa: "fa-utensils"
+  addr: "Via San Marina, 47, Bentivoglio"
+  orari: "Lun Chiuso / Mar-Ven 12-14 / Sab 19-21 / Dom 12-14"
+  lat: 44.6041357
+  lng: 11.4144755
+  color: "#e85d04"
+
+- name: "Pane e Vino"
+  tipo: "Bar / Ristorante / Enoteca"
+  fa: "fa-mug-hot"
+  addr: "Via Garibaldi, 28, Pieve di Cento"
+  orari: "Lun-Dom 7:30-14:30, 18:30-23:30"
+  lat: 44.7138116
+  lng: 11.3058354
+  color: "#1d6fa4"
+
+- name: "Giuggiola cucina e pasta fresca"
+  tipo: "Gastronomia"
+  fa: "fa-utensils"
+  addr: "Via A. Gramsci, 34, Pieve di Cento"
+  orari: "Lun Chiuso / Mar-Sab 10-14, 16:30-19:30 / Dom 9-12:30"
+  lat: 44.7128207
+  lng: 11.3092095
+  color: "#e85d04"
+
+- name: "Agriturismo Arcadia"
+  tipo: "Agriturismo"
+  fa: "fa-tree"
+  addr: "Via Cornetta, 491, San Pietro in Casale"
+  orari: "Lun-Sab 8-19 / Dom 9-18"
+  lat: 44.7351025
+  lng: 11.3350173
+  color: "#2d6a4f"
+
+- name: "B&B Piano B"
+  tipo: "B&B"
+  fa: "fa-bed"
+  addr: "Via Risorgimento, 28, Pieve di Cento"
+  orari: ""
+  lat: 44.7140116
+  lng: 11.305819
+  color: "#e91e8c"
+
+- name: "Studio Fuoribordo / Infopoint Centergross"
+  tipo: "IAT Diffuso / Infopoint"
+  fa: "fa-circle-info"
+  addr: "Via della Mercanzia, 13 Blocco 5A, Centergross (Argelato)"
+  orari: "Lun-Ven 8-19"
+  lat: 44.587709
+  lng: 11.375117
+  color: "#2c5f2e"
+
+- name: "Oasi La Rizza"
+  tipo: "Ristorante / Ostello / B&B"
+  fa: "fa-bed"
+  addr: "Via Bassa degli Albanelli, 13, Bentivoglio"
+  orari: "Ven 19-22:30 / Sab 12:30-15, 19-22:30 / Dom 12:30-15"
+  lat: 44.6604043
+  lng: 11.4365641
+  color: "#e91e8c"
+
+- name: "Pro Loco Pieve di Cento APS"
+  tipo: "IAT Diffuso"
+  fa: "fa-circle-info"
+  addr: "Piazza Andrea Costa, 11, Pieve di Cento"
+  orari: "Mar 9-11 / Ven 9-11"
+  lat: 44.7139266
+  lng: 11.3068046
+  color: "#2c5f2e"
+
+- name: "Fiorilinda"
+  tipo: "IAT Diffuso"
+  fa: "fa-circle-info"
+  addr: "Via G. Garibaldi, 70, Pieve di Cento"
+  orari: "Lun 8-19 / Mar-Ven 8:30-12:30, 16-19 / Sab 8:30-12:30, 16-19"
+  lat: 44.7146803
+  lng: 11.3046074
+  color: "#2c5f2e"
+
+- name: "Convivio Bistrot"
+  tipo: "Bar / Ristorante / IAT Diffuso"
+  fa: "fa-mug-hot"
+  addr: "Via Marco Rizzoli, 2, Pieve di Cento"
+  orari: "Mer Chiuso / Lun-Mar Gio-Dom 8-00"
+  lat: 44.7113615
+  lng: 11.3065741
+  color: "#1d6fa4"
