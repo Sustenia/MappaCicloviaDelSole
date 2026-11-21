@@ -211,9 +211,9 @@
   fa: "fa-mug-hot"
   addr: "Piazza Mercato, 16, Castello d'Argile"
   orari: "mar-sab 12-22.30, dom 16-22.30"
-  lat: 44.7005
-  lng: 11.2885
-  color: "#1d6fa4"
+  lat: 44.680356 
+  lng: 11.295220
+  color: "#e85d04"
 
 - name: "Chiaro di Luna"
   tipo: "B&B"
@@ -302,5 +302,5 @@
   addr: "Via Valle, 31, San Vincenzo (Galliera)"
   orari: "Dom-Ven 9-14.30 / Sab Chiuso"
   lat: 44.7990
-  lng: 11.4770
+  lng: 11.456223
   color: "#e85d04"
